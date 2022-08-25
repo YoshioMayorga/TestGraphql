@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">TestGraphql</string>
+    <string name="sign_in">Login</string>
+    <string name="mail">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Enter</string>
+    <string name="txt_error">Error</string>
+    <string name="txt_login_success">Login success</string>
+    <string name="txt_accept">Accept</string>
+    <string name="txt_name">Name:</string>
+    <string name="txt_email">Email:</string>
+    <string name="txt_token">Token</string>
 </resources>

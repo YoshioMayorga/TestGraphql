@@ -1,0 +1,11 @@
+mutation signIn($email: String!, $password: String!, $device: String) {
+    tokenCreate(email: $email, password: $password, device: $device) {
+        token
+         user {
+            ...userFragment
+        }
+        errors {
+            message
+        }
+    }
+}
