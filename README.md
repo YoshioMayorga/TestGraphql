@@ -8,16 +8,13 @@
 
 ## Configuration URL SERVER
 
-
 To test the login function it is necessary to add the url server from Dragon Environment
-
 
 Add url obtained from Dragon environment in the gradle.properties file in the URL_DEV parameter
 
 ```sh
     URL_DEV = "URL HERE"
 ```
-
 ## Running application
 
 | Login | Success 
@@ -27,4 +24,3 @@ Add url obtained from Dragon environment in the gradle.properties file in the UR
 | Login | Error 
 | --- |---|
 |<img src="https://user-images.githubusercontent.com/111458421/186712547-d5b5f5af-d1c8-4312-a382-a6f1a4c9f444.jpeg" width="260">|<img src="https://user-images.githubusercontent.com/111458421/186712567-87ef4413-f61e-4681-b66d-28c5036aeb39.jpeg" width="260">|
-
